@@ -1,4 +1,0 @@
-# Everything at the top level of this folder is the website.
-[build]
-  publish = "."
-  functions = "netlify/functions"
